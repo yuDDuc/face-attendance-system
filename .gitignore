@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/faces/*
+data/*.csv
+face_recognition_models-0.3.0.tar.gz
+.vscode/
