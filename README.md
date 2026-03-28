@@ -8,21 +8,21 @@ Hệ thống quản lý thông tin và điểm danh sinh viên sử dụng Công
 > *Camera bắt khuôn mặt trực tiếp với tốc độ khung hình cao. Hiện tên và ô vuông nhận diện nhanh chóng thay vì sử dụng Dlib nặng nề.*
 
 <div align="center">
-  <img src="assets/attendance.png" alt="Màn hình Nhận diện điểm danh" width="600">
+  <img src="assets/1.png" alt="Màn hình Nhận diện điểm danh" width="600">
 </div>
 
 ### 2. Tab Đăng ký Sinh viên
 > *Đăng ký khuôn mặt bằng cách chụp tự động liên tiếp để trích xuất Feature Encodings.*
 
 <div align="center">
-  <img src="assets/registration.png" alt="Màn hình Đăng ký" width="600">
+  <img src="assets/2.png" alt="Màn hình Đăng ký" width="600">
 </div>
 
 ### 3. Tab Lịch sử Dữ liệu
 > *Giao diện Treeview Tkinter lấy dữ liệu từ Backend CSV/Pickle theo chuẩn Data Science.*
 
 <div align="center">
-  <img src="assets/records.png" alt="Màn hình Data" width="600">
+  <img src="assets/3.png" alt="Màn hình Data" width="600">
 </div>
 
 ---
@@ -35,8 +35,6 @@ Hệ thống quản lý thông tin và điểm danh sinh viên sử dụng Công
 ---
 
 ## 🚀 Hướng dẫn Cài đặt & Chạy ứng dụng
-
-Bạn không cần code C++ hay cài công cụ Compiler (Visual Studio) để sử dụng phần mềm này! 
 
 ### Yêu cầu ban đầu
 Máy của bạn cần phải cài đặt **Python 3.8 trở lên**. Khuyên dùng môi trường ảo (Virtual Environment).
@@ -77,5 +75,3 @@ FaceReg/
 │   └── *.png
 └── main.py                 # File thực thi chương trình
 ```
-
-*Một sản phẩm để tối giản hóa quy trình điểm danh cực nhọc cho các Giảng viên/Giáo viên và tiết kiệm thời gian của Sinh Viên.* 🎈
